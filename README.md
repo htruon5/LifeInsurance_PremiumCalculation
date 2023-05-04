@@ -1,1 +1,2 @@
-# LifeInsurance_PremiumCalculation
+# Life Insurance: Annuity Fair Model
+This math modeling project utilizes Actuarial Present Value principles and Life Table data to calculate price premium for Term Life insurance plans. The input parameters include expected benefit amount, contract term, age, and gender. We use life expectancy as a random variable of age to calculate death probabilities at any given age. Details are included in the Overleaf file.
